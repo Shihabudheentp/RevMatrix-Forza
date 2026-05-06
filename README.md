@@ -28,6 +28,21 @@ RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-sty
 - USB Power Supply
 - Jumper Wires
 
+# How It Works
+
+RevMatrix uses the telemetry output system built into Forza Horizon to receive live vehicle data over WiFi.
+
+The ESP32 connects to the same network as the PC running the game and listens for UDP telemetry packets sent by Forza Horizon.
+
+The incoming telemetry data contains information such as:
+
+- Vehicle speed
+- Engine RPM
+- Current gear
+- Maximum RPM
+
+The ESP32 processes this data in real time and updates the dashboard components accordingly.
+
 # Display Layout
 
 ```text
