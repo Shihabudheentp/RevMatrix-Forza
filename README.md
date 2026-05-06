@@ -37,6 +37,18 @@ RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-sty
 - USB Power Supply
 - Jumper Wires
 
+# SCHEMATICS
+
+<img width="1264" height="622" alt="image" src="https://github.com/user-attachments/assets/e4838ec5-f1c6-4971-b318-0f05f432392e" />
+
+### PIN CONNECTIONS
+- GPIO12 → MAX7219 DIN
+- GPIO13 → MAX7219 CS
+- GPIO14 → MAX7219 CLK
+- GPIO4  → WS2812B DATA
+
+Make sure both strip and matrix grounds are common
+
 # How It Works
 
 RevMatrix uses the telemetry output system built into Forza Horizon to receive live vehicle data over WiFi.
