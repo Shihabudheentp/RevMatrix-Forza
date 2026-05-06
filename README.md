@@ -112,7 +112,7 @@ About the cosmetics, the MAX7219 already had a 3D Printed case that i used in my
 - Since i am soo lazy on measurements and everything, I have created a Complete 3D Case or design the module perfectly.
 - The pixel display just sits IDLE if Forza Telematry Data is not recieving, We can actually place a Clock in this idle part and Forza Dashboard can be automatically launch whenever telematry data is recieved.
 
-#COMPLETE SHOWCASE
+# COMPLETE SHOWCASE
 
 
 
