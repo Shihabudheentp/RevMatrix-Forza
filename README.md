@@ -8,6 +8,12 @@ RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-sty
 
 - [FEATURES](#features)
 - [HARDWARES USED](#Hardware-Used)
+- [HOW IT WORKS](#How-It-Works)
+- [LAYOUT](#Layout)
+- [SNEAK PEAK](#Sneak-Peak)
+- [BACKSTORY (JUST HOW I DONE IT, DOESNT MATTER XD](#backstory)
+- [POSSIBLE UPDATES](#Possible-Updates)
+- [COMPLETE SHOWCASE](#Complete-Showcase)
 
 # Features
 
@@ -34,9 +40,7 @@ RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-sty
 # How It Works
 
 RevMatrix uses the telemetry output system built into Forza Horizon to receive live vehicle data over WiFi.
-
 The ESP32 connects to the same network as the PC running the game and listens for UDP telemetry packets sent by Forza Horizon.
-
 The incoming telemetry data contains information such as:
 
 - Vehicle speed
