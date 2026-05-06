@@ -4,7 +4,9 @@ ESP32-powered Forza Horizon telemetry dashboard using MAX7219 LED matrices and W
 
 RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-style dashboard featuring speed display, gear indicator, RPM bars, RGB shift lights, and aggressive redline flash effects.
 
----
+# TOC
+
+- [FEATURES](#features)
 
 # Features
 
