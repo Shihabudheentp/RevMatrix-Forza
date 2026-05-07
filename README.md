@@ -162,9 +162,9 @@ ABOVE 82%, The whole 12 LEDs will flash into red colour and the whole matrix dis
 
 The reason I've Used 82% is because rarely cars go upto that rpm based on telematry data and the final 2 red lights in the strip doesnt blink at all and only if they all 4 blinks, the flashing will works, so i made the final 4 slightly lesser RPM.
 
-The 3rd module of matrix display was awfully empty since even at 3 digit speed, it only reaches 2 Modules so I Added another RPM Bar and flashing animation to it. but it was very used ingame since it was so frkn bright and the flashing can be noticed even if we dont look at the dashboard
+The 3rd module of matrix display was awfully empty since even at 3 digit speed, it only reaches 2 Modules so I Added another RPM Bar and flashing animation to it. but it was very usefull ingame since it was so frkn bright and the flashing can be noticed even if we dont look at the dashboard
 
-About the cosmetics, the MAX7219 already had a 3D Printed case that i used in my clock animation but it was connected via ESP8266 CH340 DEV BOARD. Since the length of max7219 is lesser and roughly 8 LEDs can be placed under it, so i decided to extend the LED Part only. I used Cable Channels that was sitting here and glued 12 LEDs into the side of it, and i glued it beneath the matrix display. it doesnt looks that good but yeah it will do the job.
+About the cosmetics, the MAX7219 already had a 3D Printed case that i used in my clock animation. Since the length of max7219 is lesser and roughly 8 LEDs can be placed under it, so i decided to extend the LED Part only. I used Cable Channels that was sitting here and glued 12 LEDs into the side of it, and i glued it beneath the matrix display. it doesnt looks that good but yeah it will do the job.
 
 
 # Possible Updates
