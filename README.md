@@ -56,7 +56,7 @@ Make sure both strip and matrix grounds are common
 - Make the connections as shown in [SCHEMATICS](#SCHEMATICS)
 - Connect the Board with pc using a data cable
 - Open Arduino IDE and install libraries and boards. [Refer how to install esp32 boards](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)
-- Download the Code and libraries.
+- Download the Code and libraries [From Here](https://github.com/connorvb14/RevMatrix-Forza/releases/tag/V1)
 - In IDE Make sure Correct board is chosen, Most of the ESP32 Boards should work on "ESP32 DEV MODULE"
 
    <img width="247" height="133" alt="image" src="https://github.com/user-attachments/assets/1cc906c2-66d0-4f6b-bdb8-387d19a54061" />
