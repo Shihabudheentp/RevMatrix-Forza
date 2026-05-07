@@ -1,8 +1,9 @@
 # RevMatrix-Forza
 
 ESP32-powered Forza Horizon telemetry dashboard using MAX7219 LED matrices and WS2812B RGB shift lights.
-
 RevMatrix transforms real-time Forza Horizon telemetry into a compact racing-style dashboard featuring speed display, gear indicator, RPM bars, RGB shift lights, and aggressive redline flash effects.
+
+This is my first GitHub Repository and First Project to be Uploaded in GitHub. Inform me if there is any Mistakes
 
 # TOC
 
