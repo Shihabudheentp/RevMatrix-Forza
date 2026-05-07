@@ -181,13 +181,8 @@ https://github.com/user-attachments/assets/d5dda74a-4b8d-410d-ae94-f711f6d90f3f
 
 
 
-
-
-
-
-
-
-# Display Layout
-
-```text
-[SPEED][SPEED][RPM][GEAR]
+# FOR ANY DOUBTS OR REQUESTS, HMU ON MY SOCIALS
+<a href="https://www.instagram.com/sh._.ihab._/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/>
+  @sh._.ihab._
+</a>
